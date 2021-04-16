@@ -17,3 +17,22 @@ body {
     margin: 0;
    }
    
+
+
+/* #content, html, body {
+    height: 98%;
+} */
+#left {
+    float: left;
+    width: 25%;
+    /* #background: red; */
+    height: 100%;
+    overflow: auto;
+}
+#right {
+    float: left;
+    width: 75%;
+    /* background: blue; */
+    height: 100%;
+    overflow: auto;
+}
